@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TheEngineerSN/theengineersn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 TheEngineerSN
 
-Here are some ideas to get you started:
+### Computer Systems • Software Development • Networking • Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=Computer+Systems+Engineering;Python+%7C+C%2B%2B+%7C+TypeScript;Networking+%7C+Linux+%7C+Windows;Building+Real+World+Projects;Always+Learning+Something+New" />
+
+</div>
+
+---
+
+## 🖥️ System Profile
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     THE ENGINEER SN                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Username     : TheEngineerSN                                ║
+║  Field        : Computer Systems Engineering                 ║
+║                                                              ║
+║  Languages    : Python • C++ • TypeScript                    ║
+║                 HTML • CSS                                   ║
+║                                                              ║
+║  Systems      : Windows • Linux • macOS                      ║
+║                                                              ║
+║  Interests    : Software Development                         ║
+║                 Networking                                   ║
+║                 Cybersecurity                                ║
+║                 Automation                                   ║
+║                 Web Development                              ║
+║                                                              ║
+║  Editor       : Visual Studio Code                           ║
+║  Version Ctrl : Git / GitHub                                 ║
+║                                                              ║
+║  Status       : Building • Learning • Improving              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
