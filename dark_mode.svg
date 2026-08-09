@@ -65,12 +65,12 @@
     <text x="635" y="292" class="cc">.  </text>
     <text x="658" y="292" class="key">Languages.Computer:</text>
     <text x="869.03" y="292" class="cc">. . . . . . . . . . . . . . . . . . . . . . . . . </text>
-    <text x="1562" y="292" class="value" text-anchor="end">HTML • CSS • JSON</text>
+    <text x="1562" y="292" class="value" text-anchor="end">React.js • Node.js • React Native</text>
 
     <text x="635" y="320" class="cc">.  </text>
-    <text x="658" y="320" class="key">Languages.Technology:</text>
+    <text x="658" y="320" class="key">Languages.Web:</text>
     <text x="889.77" y="320" class="cc">. . . . . . . . . . . . . . . .</text>
-    <text x="1562" y="320" class="value" text-anchor="end">React.js • Node.js • React Native</text>
+    <text x="1562" y="320" class="value" text-anchor="end">HTML • CSS • JSON</text>
 
     <text x="635" y="348" class="cc">.  </text>
     <text x="658" y="348" class="key">Languages.Real:</text>
