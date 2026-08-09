@@ -45,7 +45,7 @@
 
     <text x="635" y="180" class="cc">.  </text>
     <text x="658" y="180" class="key">IDE:</text>
-    <text x="713.48" y="180" class="cc">. . . . . . . . . . . . . . . . . . . . .</text>
+    <text x="713.48" y="180" class="cc">. . . . . . . . . . . . . . . . . . . . </text>
     <text x="1562" y="180" class="value" text-anchor="end">VS Code • Xcode • PyCharm • Android Studio</text>
 
     <text x="635" y="208" class="cc">.  </text>
