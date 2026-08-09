@@ -84,17 +84,17 @@
 
     <text x="635" y="404" class="cc">.  </text>
     <text x="658" y="404" class="key">Tools:</text>
-    <text x="734.22" y="404" class="cc">. . . . . . .</text>
+    <text x="734.22" y="404" class="cc">. . . . . . . .</text>
     <text x="1562" y="404" class="value" text-anchor="end">Git • GitHub • Docker • Postman • Arduino • Raspberry Pi • VMware</text>
 
     <text x="635" y="432" class="cc">.  </text>
     <text x="658" y="432" class="key">Hobbies.Software:</text>
-    <text x="848.29" y="432" class="cc">. . . . . . . . </text>
+    <text x="848.29" y="432" class="cc">. . . . . . . . .</text>
     <text x="1562" y="432" class="value" text-anchor="end">iOS Security Research • Software Reverse Engineering</text>
 
     <text x="635" y="460" class="cc">.  </text>
     <text x="658" y="460" class="key">Hobbies.Hardware:</text>
-    <text x="848.29" y="460" class="cc">. . . . . . . . . . . . . . . </text>
+    <text x="848.29" y="460" class="cc">. . . . . . . . . . . . . . . .</text>
     <text x="1562" y="460" class="value" text-anchor="end">Hardware Security • System Diagnostics</text>
 
     <text x="635" y="488" class="cc">.  </text>
