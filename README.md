@@ -12,7 +12,7 @@
 
 ## 🖥️ System Profile
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.png">
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.png">
-  <img alt="TheEngineerSN System Profile" src="dark_mode.png">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="TheEngineerSN System Profile" src="dark_mode.svg">
 </picture>
