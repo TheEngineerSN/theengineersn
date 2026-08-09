@@ -11,29 +11,8 @@
 ---
 
 ## 🖥️ System Profile
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     THE ENGINEER SN                         ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  Username     : TheEngineerSN                                ║
-║  Field        : Computer Systems Engineering                 ║
-║                                                              ║
-║  Languages    : Python • C++ • TypeScript                    ║
-║                 HTML • CSS                                   ║
-║                                                              ║
-║  Systems      : Windows • Linux • macOS                      ║
-║                                                              ║
-║  Interests    : Software Development                         ║
-║                 Networking                                   ║
-║                 Cybersecurity                                ║
-║                 Automation                                   ║
-║                 Web Development                              ║
-║                                                              ║
-║  Editor       : Visual Studio Code                           ║
-║  Version Ctrl : Git / GitHub                                 ║
-║                                                              ║
-║  Status       : Building • Learning • Improving              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.png">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.png">
+  <img alt="TheEngineerSN System Profile" src="dark_mode.png">
+</picture>
